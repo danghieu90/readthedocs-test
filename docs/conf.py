@@ -58,8 +58,8 @@ source_parsers = {
 master_doc = 'index'
 
 # General information about the project.
-project = u'Magecheckout Wiki'
-copyright = u'2016, Magecheckout '
+project = u'BSSCommerce Wiki'
+copyright = u'2016, BSSCommerce '
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -138,7 +138,7 @@ html_theme = 'default'
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = 'favicon.ico'
+html_favicon = 'bsscommerce_logo.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -283,6 +283,3 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
-
-
-magento_latest_version = 'Magento 1.9.x'
