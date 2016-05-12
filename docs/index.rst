@@ -1,4 +1,4 @@
-Welcome to Magecheckout Wiki
+Welcome to BSSCommerce Wiki
 =============================
 
 
@@ -10,12 +10,11 @@ Welcome to Magecheckout Wiki
     general/faq
     general/license
     general/installation
-    general/support
-    general/translation
     general/uninstallation
+    general/translation
     general/upgrade
-    general/recommendation
-    general/how-to-print-invoice
+    general/purchase-payment-invoices
+    general/support
 
 
 .. toctree::
@@ -23,14 +22,7 @@ Welcome to Magecheckout Wiki
    :glob:
    :caption: Magento 1
 
-   one-step-checkout/index
-   delivery-time/index
-   store-locator/index
-   better-thank-you-page/index
-   customer-attributes/index
-   display-rules/index
-   social-login/index
-   abandoned-cart/index
+   multi-store-pricing/index
 
 
 
@@ -39,13 +31,7 @@ Welcome to Magecheckout Wiki
    :glob:
    :caption: Magento 2
 
-   social-login-m2/index
-   facebook-login-m2/index
-   delete-order-m2/index
-   google-analytics-m2/index
-   google-tag-manager-m2/index
-   social-buttons-m2/index
-   zopim-chat-m2/index
+   multi-store-pricing-m2/index
    
 
 

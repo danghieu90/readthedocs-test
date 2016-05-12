@@ -1,4 +1,4 @@
-Need Supports?
+Supports
 ==============
 
 .. include:: support.inc

@@ -145,10 +145,10 @@ html_favicon = 'bsscommerce_logo.ico'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = [
   '_static',
-  '_static/custom.css',
-  '_static/default.css',
-  '_static/app.js',
-  'default.css'
+  #'_static/custom.css',
+  #'_static/default.css',
+  #'_static/app.js',
+  #'default.css'
 ]
 
 # Add any extra paths that contain custom files (such as robots.txt or
